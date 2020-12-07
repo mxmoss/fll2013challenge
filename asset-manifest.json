@@ -1,11 +1,23 @@
 {
-  "main.css": "static/css/main.db2957a0.css",
-  "main.css.map": "static/css/main.db2957a0.css.map",
-  "main.js": "static/js/main.f9d486bd.js",
-  "main.js.map": "static/js/main.f9d486bd.js.map",
-  "static\\media\\glyphicons-halflings-regular.eot": "static/media/glyphicons-halflings-regular.f4769f9b.eot",
-  "static\\media\\glyphicons-halflings-regular.svg": "static/media/glyphicons-halflings-regular.89889688.svg",
-  "static\\media\\glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.e18bbf61.ttf",
-  "static\\media\\glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
-  "static\\media\\glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2"
+  "files": {
+    "main.css": "/FLLCalculator/static/css/main.3f9ef032.chunk.css",
+    "main.js": "/FLLCalculator/static/js/main.1ec95248.chunk.js",
+    "main.js.map": "/FLLCalculator/static/js/main.1ec95248.chunk.js.map",
+    "runtime-main.js": "/FLLCalculator/static/js/runtime-main.2fecebee.js",
+    "runtime-main.js.map": "/FLLCalculator/static/js/runtime-main.2fecebee.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/FLLCalculator/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c9b78cc2.chunk.js": "/FLLCalculator/static/js/2.c9b78cc2.chunk.js",
+    "static/js/2.c9b78cc2.chunk.js.map": "/FLLCalculator/static/js/2.c9b78cc2.chunk.js.map",
+    "index.html": "/FLLCalculator/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/FLLCalculator/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.3f9ef032.chunk.css.map": "/FLLCalculator/static/css/main.3f9ef032.chunk.css.map",
+    "static/js/2.c9b78cc2.chunk.js.LICENSE.txt": "/FLLCalculator/static/js/2.c9b78cc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fecebee.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c9b78cc2.chunk.js",
+    "static/css/main.3f9ef032.chunk.css",
+    "static/js/main.1ec95248.chunk.js"
+  ]
 }
